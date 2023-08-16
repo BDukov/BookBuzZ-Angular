@@ -48,3 +48,8 @@ BookBuzz exemplifies your mastery in TypeScript, Angular development, Firebase i
 <p> email: peter@abv.bg </p>
 <p> password: 123456</p>
 
+<h1> Screenshots </h1>
+<h2> Home Page </h2>
+![home-page](https://github.com/BDukov/BookBuzZ-Angular/assets/107854265/499172b9-74cf-409c-8ddd-31918b22cdf6)
+
+
