@@ -51,8 +51,10 @@ BookBuzz exemplifies your mastery in TypeScript, Angular development, Firebase i
 <h1> Screenshots </h1>
 <h2> Home Page </h2>
 <img src="https://github.com/BDukov/BookBuzZ-Angular/assets/107854265/499172b9-74cf-409c-8ddd-31918b22cdf6"> </img>
-<h2> Register </h2>
+<h2> Register Page </h2>
 <img src="https://github.com/BDukov/BookBuzZ-Angular/assets/107854265/4403e42d-eeab-4b8e-89a3-f9225ff7ffae"> </img>
-<h2> Login </h2>
+<h2> Login Page </h2>
 <img src="https://github.com/BDukov/BookBuzZ-Angular/assets/107854265/2f410a10-4ff2-473c-b11b-7509ef245bc8"> </img>
+<h2> Books Page</h2>
+<img src="https://github.com/BDukov/BookBuzZ-Angular/assets/107854265/af0403ab-2b71-4614-b6f7-00e3dc67084d"> </img>
 
