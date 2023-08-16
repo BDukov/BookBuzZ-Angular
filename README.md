@@ -10,6 +10,24 @@ BookBuzz is an immersive web application crafted with Angular 16, offering book 
 <h2> 1. Authentication:   </h2>
 Robust user authentication system enables secure registration and login.
 Personalized user profiles enhance the tailored experience.
+<p> Logged In users can: </p>
+<ul> 
+  <li> Add new books </li>
+  <li> Add new quotes </li>
+  <li> Write reviews for every book</li>
+  <li> Edit or delete books if they are owners</li>
+  <li> See their Profile page</li>
+  <li> Edit their Profile</li>
+</ul>
+<p> Not logged id users can access: </p>
+<ul> 
+  <li> Home page </li>
+  <li> Login page </li>
+  <li> Register page</li>
+  <li> Books page </li>
+  <li> Qoutes page</li>
+</ul>
+
 <h2> 2. Book Management: </h2>
 Intuitive interface for effortlessly adding new books with titles, authors, descriptions, and reviews.
 Empowering users to edit their book entries for a personalized touch.
