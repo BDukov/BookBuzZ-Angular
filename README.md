@@ -57,4 +57,11 @@ BookBuzz exemplifies your mastery in TypeScript, Angular development, Firebase i
 <img src="https://github.com/BDukov/BookBuzZ-Angular/assets/107854265/2f410a10-4ff2-473c-b11b-7509ef245bc8"> </img>
 <h2> Books Page</h2>
 <img src="https://github.com/BDukov/BookBuzZ-Angular/assets/107854265/af0403ab-2b71-4614-b6f7-00e3dc67084d"> </img>
-
+<h2> Quotes Page</h2>
+<img src="https://github.com/BDukov/BookBuzZ-Angular/assets/107854265/c85b4f30-ed71-47bf-9a09-4c18398d07a9"> </img>
+<h2> Add Book </h2>
+<img src="https://github.com/BDukov/BookBuzZ-Angular/assets/107854265/f05075a0-3e66-48aa-9433-a7435edcce06"> </img>
+<h2> Add Quote </h2>
+<img src="https://github.com/BDukov/BookBuzZ-Angular/assets/107854265/428e362a-902f-46cc-bf55-267a97b534cd"> </img>
+<h2> Details Page </h2>
+<img src="https://github.com/BDukov/BookBuzZ-Angular/assets/107854265/f8b3e840-9413-46a0-b8c9-68a727387252"> </img>
