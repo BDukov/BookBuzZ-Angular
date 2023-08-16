@@ -41,3 +41,10 @@ Implementing a sophisticated recommendation engine for personalized book suggest
 Enabling social sharing to allow users to spread their favorite books and reviews.
 Conclusion:
 BookBuzz exemplifies your mastery in TypeScript, Angular development, Firebase integration, and responsive design. This comprehensive Angular 16 project, boasting book management, reviews, and profiles, showcases your ability to create captivating and user-focused web applications.
+
+<h1> DEMO </h1>
+
+<h2> Demo User </h2>
+<p> email: peter@abv.bg </p>
+<p> password: 123456</p>
+
